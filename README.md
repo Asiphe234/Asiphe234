@@ -1,10 +1,10 @@
 # Hi, I'm Asiphe 👋
 
-🎓 ICT Student | 🐍 Python | 🐧 Linux | 💻 Software Development
+ ICT Student |  Python |  Linux |  Software Development
 
 I'm an ICT student building my skills in programming, Linux, cybersecurity, and software development through practical projects and continuous learning.
 
-## 🛠️ Skills
+##  Skills
 
 - Python
 - Linux
@@ -14,7 +14,7 @@ I'm an ICT student building my skills in programming, Linux, cybersecurity, and 
 - C#
 - SQL
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Python programming
 - Linux and command-line tools
@@ -22,9 +22,9 @@ I'm an ICT student building my skills in programming, Linux, cybersecurity, and 
 - Cybersecurity and Ethical Hacking
 - Software Development
 
-## 🚀 Projects
+##  Projects
 
-### 🐍 Student Grade Calculator
+###  Student Grade Calculator
 A Python program that accepts student marks and calculates:
 
 - Total marks
@@ -36,13 +36,13 @@ A Python program that accepts student marks and calculates:
 
 🔗 [View the project](https://github.com/Asiphe234/python_projects/tree/main/student_grade_calculator)
 
-## 🎓 Certifications & Training
+##  Certifications & Training
 
 - Python Essentials 1 — Cisco Networking Academy / OpenEDG
 - Linux Essentials / Linux training
 - Ethical Hacking — Cisco Networking Academy
 
-## 🎯 Goals
+##  Goals
 
 I'm working towards becoming a software engineer and developing strong skills in areas such as:
 
@@ -51,10 +51,10 @@ I'm working towards becoming a software engineer and developing strong skills in
 - Cybersecurity
 - Problem Solving
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: [@Asiphe234](https://github.com/Asiphe234)
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!❤️
