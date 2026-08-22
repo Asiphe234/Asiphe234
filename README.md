@@ -2,7 +2,7 @@
 
  ICT Student |  Python |  Linux |  Software Development
 
-I'm an ICT student building my skills in programming, Linux, cybersecurity, and software development through practical projects and continuous learning.
+I am a Bachelor's degree student in Information and Communication Technology (ICT) developing my programming, Linux, cybersecurity, and software development skills through practical projects and continuous learning.
 
 ##  Skills
 
