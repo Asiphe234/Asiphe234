@@ -38,9 +38,8 @@ A Python program that accepts student marks and calculates:
 
 ##  Certifications & Training
 
-- Python Essentials 1 — Cisco Networking Academy / OpenEDG
-- Linux Essentials / Linux training
-- Ethical Hacking — Cisco Networking Academy
+- [Python Essentials 1](https://www.credly.com/badges/3bdab71f-3e41-44f0-a35d-9a778c109b19/public_url) — Cisco Networking Academy / OpenEDG
+- [Linux Unhatched](https://www.credly.com/badges/cc8254d5-6aeb-4f28-b7a9-e83cb7296357/public_url) — Cisco Networking Academy
 
 ##  Goals
 
