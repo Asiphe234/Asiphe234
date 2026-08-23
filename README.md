@@ -2,9 +2,9 @@
 
  ICT Student |  Python |  Linux |  Software Development
 
-I am a Bachelor's degree student in Information and Communication Technology (ICT) developing my programming, Linux, cybersecurity, and software development skills through practical projects and continuous learning.
+I am studying for a Bachelor's degree in Information and Communication Technology (ICT), developing my programming, Linux, cybersecurity, and software development skills through practical projects and continuous learning.
 
-##  Skills
+## Skills
 
 - Python
 - Linux
@@ -14,7 +14,7 @@ I am a Bachelor's degree student in Information and Communication Technology (IC
 - C#
 - SQL
 
-##  Currently Learning
+## Currently Learning
 
 - Python programming
 - Linux and command-line tools
@@ -22,9 +22,9 @@ I am a Bachelor's degree student in Information and Communication Technology (IC
 - Cybersecurity and Ethical Hacking
 - Software Development
 
-##  Projects
+## Projects
 
-###  Student Grade Calculator
+### Student Grade Calculator
 A Python program that accepts student marks and calculates:
 
 - Total marks
@@ -36,12 +36,12 @@ A Python program that accepts student marks and calculates:
 
 🔗 [View the project](https://github.com/Asiphe234/python_projects/tree/main/student_grade_calculator)
 
-##  Certifications & Training
+## Certifications & Training
 
 - [Python Essentials 1](https://www.credly.com/badges/3bdab71f-3e41-44f0-a35d-9a778c109b19/public_url) — Cisco Networking Academy / OpenEDG
 - [Linux Unhatched](https://www.credly.com/badges/cc8254d5-6aeb-4f28-b7a9-e83cb7296357/public_url) — Cisco Networking Academy
 
-##  Goals
+## Goals
 
 I'm working towards becoming a software engineer and developing strong skills in areas such as:
 
@@ -50,10 +50,10 @@ I'm working towards becoming a software engineer and developing strong skills in
 - Cybersecurity
 - Problem Solving
 
-##  Connect With Me
+## Connect With Me
 
 - GitHub: [@Asiphe234](https://github.com/Asiphe234)
 
 ---
 
- Thanks for visiting my profile!❤️
+Thanks for visiting my profile! ❤️
